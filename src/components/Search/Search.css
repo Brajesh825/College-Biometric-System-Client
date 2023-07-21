@@ -1,0 +1,11 @@
+.search{
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 22px 18px;
+gap: 8px;
+width: 280px;
+height: 32px;
+background: #EDF3FD;
+border-radius: 4px;
+}

@@ -1,0 +1,43 @@
+.leftbar{
+    width: 22%;
+    height: 100vh;
+    background-color: #1A69DF;
+    position: fixed;
+    top: 0;
+}
+
+.logo{
+    margin: 30px 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.college_info{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin: 20px 0px;
+    margin-left:10px;
+}
+
+
+/* greetings & college name */
+.college_info>div{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    color: #FFFFFF;
+    margin-left: 2%;
+}
+
+.college_info>div>span{
+font-family: 'Poppins';
+font-style: normal;
+font-size: 18px;
+color: #FFFFFF;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.college_name{
+    font-weight: 500;
+}

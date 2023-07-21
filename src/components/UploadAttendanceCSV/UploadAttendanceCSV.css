@@ -1,0 +1,23 @@
+.uploadCSV{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 48px;
+gap: 12px;
+width: 589px;
+height: 179px;
+
+background: #FFFFFF;
+border: 1px dashed #D0D0D0;
+border-radius: 4px;
+}
+
+
+.uploadCSVBox>span{
+    margin-top: 20px;
+}
+
+.uploadCSVBox{
+    text-align: center;
+}

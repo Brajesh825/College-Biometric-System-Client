@@ -1,0 +1,9 @@
+.custom-modal-overlay {
+  outline: none;
+}
+
+.studentInfo{
+  display: "flex";
+  justify-content: "space-between";
+}
+

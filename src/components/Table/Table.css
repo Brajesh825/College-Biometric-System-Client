@@ -1,0 +1,40 @@
+.custom-table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  .custom-table th,
+  .custom-table td {
+    border: 1px solid #D0D0D0;
+    padding: 8px;
+  }
+  
+  .custom-table th {
+    background-color: #EDF3FD;
+  }
+  
+
+  .verticalLine{
+    height: 20px;
+width: 2px;
+background-color: #D0D0D0;
+  }
+
+
+  .viewButton{
+font-weight: 700;
+color: #1A69DF;
+margin-right: 5px;
+  }
+
+  .messageButton{
+    color: #F0AF41;
+    font-weight: 700;
+    margin-left: 5px;
+  }
+
+
+  .dropdown-option{
+    cursor: pointer;
+  }

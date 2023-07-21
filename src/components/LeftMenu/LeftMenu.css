@@ -1,0 +1,21 @@
+.leftMenu{
+    color: #FFFFFF;
+    line-height: 50px;
+
+}
+
+
+.leftMenuContent>span{
+    margin-left: 15px;
+}
+
+.leftMenuContent{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.leftMenuContent:hover{
+    background-color: #185EC9;
+}

@@ -1,0 +1,11 @@
+.filterbutton{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 10px;
+height: 32px;
+background: #EDF3FD;
+border-radius: 16px;
+margin: 0px 5px;
+}

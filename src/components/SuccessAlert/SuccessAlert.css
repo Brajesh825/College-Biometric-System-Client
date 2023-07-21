@@ -1,0 +1,50 @@
+.modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    border: none;
+    outline: none;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  .overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .success-alert {
+    text-align: center;
+  }
+  
+  .success-alert h2 {
+    color: #1A69DF;
+  }
+  
+  .success-alert p {
+    margin-bottom: 20px;
+  }
+  
+  .success-alert button {
+    padding: 10px 20px;
+    background-color: #1A69DF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .success-alert button:hover {
+    background-color: #1A69DF;
+  }
+  
